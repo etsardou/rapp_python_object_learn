@@ -1,5 +1,4 @@
 language: python
-name: doesnotmatter
 version: 0.1.0
 
 platform:
@@ -11,6 +10,7 @@ api: 0.6.0
 
 package:
   - app.py
+  - run.sh
 
 keywords:
   - manos
