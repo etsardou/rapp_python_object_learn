@@ -1,1 +1,1 @@
-# rapp_python_object_learn
+# rapp_simple_python_app
